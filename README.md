@@ -1,17 +1,15 @@
 # Fastfetch themes
 
+![Frieren pixel-art animation](assets/frieren_v29_fastfetch_transparent.gif)
+
+Reference credit and generation details: [artwork provenance](ARTWORK.md).
+
 Thirteen terminal layouts by zxzx, combining native Fastfetch modules,
 procedural system diagrams, and a pixel-art Frieren animation.
 
 ![Scroll theme preview](previews/scroll.png)
 
 [View all 13 theme previews](PREVIEWS.md).
-
-### Animated artwork
-
-![Frieren pixel-art animation](assets/frieren_v29_fastfetch_transparent.gif)
-
-Reference credit and generation details: [artwork provenance](ARTWORK.md).
 
 ## Requirements
 
