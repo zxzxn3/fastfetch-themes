@@ -7,6 +7,12 @@ procedural system diagrams, and a pixel-art Frieren animation.
 
 [View all 13 theme previews](PREVIEWS.md).
 
+### Animated artwork
+
+![Frieren pixel-art animation](assets/frieren_v29_fastfetch_transparent.gif)
+
+Reference credit and generation details: [artwork provenance](ARTWORK.md).
+
 ## Requirements
 
 - Linux. The Python scenes read Linux `/proc` metrics.
