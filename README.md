@@ -3,6 +3,10 @@
 Thirteen terminal layouts by zxzx, combining native Fastfetch modules,
 procedural system diagrams, and a pixel-art Frieren animation.
 
+![Scroll theme preview](previews/scroll.png)
+
+[View all 13 theme previews](PREVIEWS.md).
+
 ## Requirements
 
 - Linux. The Python scenes read Linux `/proc` metrics.
