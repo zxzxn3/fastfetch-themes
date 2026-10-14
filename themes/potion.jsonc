@@ -1,0 +1,34 @@
+// theme: potion
+// author: zxzx
+// title: 炼金药瓶 / 内存液面
+// layout: {"rows": 25, "columns": 57}
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "source": "\"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/assets/frieren_v29_fastfetch_transparent.gif\"",
+    "type": "kitty",
+    "animationFrame": 0,
+    "width": 46,
+    "position": "auto",
+    "padding": {
+      "left": 2,
+      "right": 4,
+      "top": 1
+    }
+  },
+  "display": {
+    "separator": "",
+    "key": {
+      "type": "none"
+    }
+  },
+  "modules": [
+    {
+      "type": "command",
+      "key": " ",
+      "format": "{result}",
+      "text": "python3 \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/scripts/scenes.py\" potion",
+      "splitLines": true
+    }
+  ]
+}

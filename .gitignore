@@ -1,0 +1,6 @@
+# Fastfetch：源配置、脚本、主题与素材全部跟踪。
+!*
+
+# 本地备份与 Python 缓存。
+/backups/
+/scripts/__pycache__/
