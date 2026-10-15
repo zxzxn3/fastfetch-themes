@@ -11,11 +11,14 @@ procedural system diagrams, and a pixel-art Frieren animation.
 
 [View all 13 theme previews](PREVIEWS.md).
 
+The Scroll layout is used daily in Kitty. Installation, theme switching,
+backups, and the Python scenes have been tested with Fastfetch 2.70.0.
+
 ## Requirements
 
 - Linux. The Python scenes read Linux `/proc` metrics.
-- Fastfetch. The configurations are maintained with version 2.69.0; older
-  versions have not been verified.
+- Fastfetch. The configurations were developed with 2.69.0 and checked with
+  2.70.0; older versions have not been verified.
 - Bash and standard Unix utilities for `style.sh`.
 - Python 3 for `metro`, `strata`, and `potion`; no third-party Python packages.
 - A Nerd Font for the module icons.
