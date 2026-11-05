@@ -27,7 +27,7 @@
       "type": "command",
       "key": " ",
       "format": "{result}",
-      "text": "python3 \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/scripts/diagrams.py\" metro",
+      "text": "\"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/scripts/diagrams\" metro",
       "splitLines": true
     }
   ]
